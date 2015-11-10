@@ -24,6 +24,9 @@ Safari does not support the color picker and the glitching along with JPEG compr
 3. listen for updates
 ```watchify -v -o build/js/App.js js/AppTest.js```
 
+## Special Thanks
+- Glitching function based on work done by [smackmyglitchupjs](https://github.com/Hugosslade/smackmyglitchupjs)
+- Glitching inspiration from [UCNV](http://ucnv.github.io/pnglitch/)
 
 ## Author
 Jeff Keeling
