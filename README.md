@@ -1,5 +1,3 @@
-watchify -v -o build/js/App.js js/AppTest.js
-
 # J-Decay
 J-Decay is a javascript application for deteriorating an image in a number of ways. It was built using React.js, Flux, and the canvas element.
 
@@ -15,6 +13,17 @@ Safari does not support the color picker and the glitching along with JPEG compr
 - Select color for each threshold
 - Mimic monitor scanline with adjustable line and gap heights
 - Add grain to image
+
+## Build
+1. Install watchify globally
+```npm install -g watchify```
+
+2. Install other project dependencies
+```npm install```
+
+3. listen for updates
+```watchify -v -o build/js/App.js js/AppTest.js```
+
 
 ## Author
 Jeff Keeling
