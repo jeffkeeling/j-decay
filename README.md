@@ -1,7 +1,7 @@
 # J-Decay
 J-Decay is a javascript application for deteriorating an image in a number of ways. It was built using React.js, Flux, and the canvas element.
 
-Try out the demo [here](http://jeffkeeling.github.io/j-degrade/).
+Try out the demo [here](http://jeffkeeling.github.io/j-decay/).
 
 For best results, use in Firefox or Chrome. 
 Safari does not support the color picker and the glitching along with JPEG compression are unsatisfactory.
